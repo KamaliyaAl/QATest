@@ -29,3 +29,9 @@ Since I needed **IntelliJ Community Edition (IC)** to launch a new instance of t
 1. Clone this repository.
 2. Open the project in IntelliJ IDEA.
 3. Run the test located in `src/test/kotlin/com/example/ChangeListChecker`.
+
+## Let's see how it works
+
+
+https://github.com/user-attachments/assets/ce73fb2d-4b44-44e6-aa83-a6db4f6ff14a
+
